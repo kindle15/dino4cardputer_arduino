@@ -1,5 +1,6 @@
 # DinoGame4Cardputer
 (c) kindle15
+
 A Chrome-Dino style endless runner for **M5Cardputer** (ESP32-S3), inspired by the pacing of [dinogame.app](https://dinogame.app/).
 
 ## Features
