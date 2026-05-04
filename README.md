@@ -31,7 +31,8 @@ A Chrome-Dino style endless runner for **M5Cardputer** (ESP32-S3), inspired by t
   - `makeVariantObstacle(...)`
 
 ## Install
-Install Arduino IDE
-Install M5Stack board manager and all dependencies
-Select M5Cardputer from board manager
-Install M5Stack libraries that apply
+
+- Install Arduino IDE
+- Install M5Stack board manager and all dependencies
+- Select M5Cardputer from board manager
+- Install M5Stack libraries that apply
